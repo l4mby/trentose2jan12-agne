@@ -1,0 +1,31 @@
+{
+  "name": "trentose2jan12-agne",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l4mby/trentose2jan12-agne.git"
+  },
+  "author": "Michael Lamb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l4mby/trentose2jan12-agne/issues"
+  },
+  "homepage": "https://github.com/l4mby/trentose2jan12-agne#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "jest": {
+    "verbose": "true",
+    "collectCoverage": "true"
+  }
+}
