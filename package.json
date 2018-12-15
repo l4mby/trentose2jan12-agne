@@ -25,7 +25,7 @@
     "jest": "^23.6.0"
   },
   "jest": {
-    "verbose": "true",
-    "collectCoverage": "true"
+    "verbose": true,
+    "collectCoverage": true
   }
 }
